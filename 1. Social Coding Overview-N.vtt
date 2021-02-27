@@ -1,0 +1,20 @@
+﻿WEBVTT
+
+One of the key aspects of putting code onto GitHub is to share it with others,
+
+or to join other projects and then contribute back changes to their repository.
+
+Some key skills for doing so is to make a copy within your account
+
+by forking a repository, and then after making some changes,
+
+you will want to contribute back those changes using the pull request process.
+
+This works both ways, so we will look at also reviewing pull requests,
+
+and finally accepting other's changes into our repository.
+
+Finally, we will synchronize changes from our upstream repository
+
+back to our individual fork or copy of the repository.
+
